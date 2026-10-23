@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner Animado Estilo Pixel Art & Synthwave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6&height=200&section=header&text=Paulo%20Cesar&fontSize=42&fontAlignY=40&animation=twinkling&fontColor=ffffff" width="100%" alt="Pixel Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6&height=200&section=header%20Cesar&fontSize=42&fontAlignY=40&animation=twinkling&fontColor=ffffff" width="100%" alt="Pixel Header Banner" />
 
   <!-- Barra Arco-íris Pixelada com Emojis Superiores -->
   <p align="center" style="margin: 0; font-size: 1.1rem; letter-spacing: 6px;">
@@ -18,7 +18,7 @@
 
   <p align="center">
     <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:SEU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="mailto:paulocgyn0@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
 
 </div>
@@ -27,9 +27,10 @@
 
 ### ⚡ Sobre mim
 
-- 💻 Graduando em **Engenharia de Software**.
+- 💻 Graduando em **Engenharia de Software** na UFG.
 - ⚙️ Apaixonado por **automatizar serviços**, simplificar fluxos manuais e construir integrações resilientes.
-- 🎯 Focado em concorrência, microsserviços, manipulação de baixo nível e modelagem eficiente de dados.
+- 🎮 Tenho interesse em desenvolvimento de jogos.
+
 
 ---
 
