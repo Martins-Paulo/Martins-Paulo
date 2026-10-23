@@ -1,20 +1,19 @@
 <div align="center">
 
-  <!-- Banner Superior Tecnológico e Minimalista -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=140&section=header&text=Paulo%20Cesar&fontSize=42&fontAlignY=55&fontColor=ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:F6F8FA,100:EAEEF2&height=140&section=header&text=Paulo%20Cesar&fontSize=42&fontAlignY=55&fontColor=24292F" />
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=140&section=header&text=Paulo%20Cesar&fontSize=42&fontAlignY=55&fontColor=ffffff" width="100%" alt="Header" />
-  </picture>
+  <!-- Banner Animado Estilo Pixel Art & Synthwave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6&height=200&section=header&text=Paulo%20Cesar&fontSize=42&fontAlignY=40&animation=twinkling&fontColor=ffffff" width="100%" alt="Pixel Header Banner" />
 
-  <!-- Linha divisória horizontal animada em degradê Arco-íris -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,1,2,3,4,5,6&height=12&animation=twinkling" width="100%" alt="Rainbow Gradient Bar" />
+  <!-- Barra Arco-íris Pixelada com Emojis Superiores -->
+  <p align="center" style="margin: 0; font-size: 1.1rem; letter-spacing: 6px;">
+    ✨ &nbsp; ⚡ &nbsp; 👾 &nbsp; 🌈 &nbsp; ☕ &nbsp; 💻 &nbsp; 🚀
+  </p>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="8px" alt="Rainbow Pixel Line" />
 
   <br />
 
-  <!-- Texto Dinâmico Estilo Terminal Moderno -->
+  <!-- Texto Dinâmico Estilo Terminal -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Engenharia+de+Software;Full+Stack+%26+Backend+Engineering;Construindo+aplica%C3%A7%C3%B5es+escal%C3%A1veis;Sempre+em+modo+de+aprendizado..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FFCC&center=true&vCenter=true&width=550&lines=Software+Engineering;Entusiasta+em+automatizar+servi%C3%A7os;Full+Stack+%26+Backend+Development;Evoluindo+arquiteturas+e+sistemas..." alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -28,31 +27,25 @@
 
 ### ⚡ Sobre mim
 
-- 💻 Cursando **Engenharia de Software** e focado em arquitetura web e sistemas distribuídos.
-- 🎯 No momento, aprofundando conceitos de concorrência, ponteiros, manipulação de baixo nível e modelagem relacional.
-- ☕ Curto automações eficientes, ficção científica, design limpo e interfaces fluidas.
+- 💻 Graduando em **Engenharia de Software**.
+- ⚙️ Apaixonado por **automatizar serviços**, simplificar fluxos manuais e construir integrações resilientes.
+- 🎯 Focado em concorrência, microsserviços, manipulação de baixo nível e modelagem eficiente de dados.
 
 ---
 
-### 🚀 Projetos & Experiências
+### 🏢 Projetos em Organização
 
-#### 🏢 Projetos em Organização
-- **[Projeto Flamboyant](https://github.com/ORGANIZACAO/NOME-DO-REPOSITORIO)**  
-  *Contexto:* Desenvolvimento colaborativo na organização  
-  *Tecnologias:* `Definir Stack`  
-  *Escopo:* Solução focada na integração de serviços, estruturação de dados e regras de negócio escaláveis.
-
-#### 🧪 Em Construção / Projetos de Estudo
-- **APIs & Microsserviços**: Experimentando padrões de alta performance com concorrência e testes automatizados.
-- **Modelagem Relacional Avançada**: Otimização de consultas, índices e integridade referencial com SQL.
+- **[Projeto Flamboyant](https://github.com/Flamboyant/LINK-DO-REPOSITORIO)**  
+  *Contexto:* Desenvolvimento colaborativo aplicado em ambiente organizacional.  
+  *Atuação:* Implementação de rotinas escaláveis, regras de negócio e integração de serviços.
 
 ---
 
 ### 🧠 Tecnologias & Aprendizado
 
-#### 📚 Aprendendo no Momento (Focus Learning)
+#### 📚 Aprendendo no Momento
 <p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=24292F" alt="C" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -71,25 +64,24 @@
 
 ---
 
-### 📊 Painel de Atividade & Métricas
+### 📊 Painel de Atividade & Métricas do GitHub
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&hide_border=true&include_all_commits=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="150em" alt="GitHub Stats" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true" height="150em" alt="Top Languages" />
-  </picture>
+  <!-- Status Geral: Total de commits, PRs, Issues e Contribuições -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Martins-Paulo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
+  <!-- Linguagens mais utilizadas nos repositórios -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martins-Paulo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-<br />
-
-<!-- Barra horizontal inferior de fechamento com arco-íris pulsante -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,1,2,3,4,5,6&height=8&animation=twinkling" width="100%" alt="Rainbow Footer Line" />
+  <!-- Sequência contínua de commits (Streak Stats) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Martins-Paulo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<!-- Barra Pixelada de Encerramento -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="6px" alt="Rainbow Pixel Line Footer" />
 </div>
