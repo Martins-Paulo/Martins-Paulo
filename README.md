@@ -1,7 +1,11 @@
 <div align="center">
 
-  <!-- Banner Animado Estilo Pixel Art & Geek (Pixel City / Sky Night em loop direto) -->
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NhZTFka2R5YTdhaWp2bm94YXV4ZGlldXF4d2F0ZnNqMXI1OTdxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" width="100%" height="240px" style="object-fit: cover; border-radius: 8px;" alt="Pixel Art Banner Geek" />
+  <!-- Banner Terminal Interativo com Código, Nome, Cargo e Ícones de Jogos -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFCC&background=0D1117FF&center=true&vCenter=true&width=700&height=130&lines=const+developer+%3D+%22Paulo+Cesar%22%3B;role%3A+%22Engenheiro+de+Software%22%3B;interests%3A+%5B%22%F0%9F%8E%AE+Games%22%2C+%22%E2%9A%94%EF%B8%8F+GameDev%22%2C+%22%F0%9F%91%BE+PixelArt%22%5D%3B;while(alive)+%7B+code()%3B+automate()%3B+%7D" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0969DA&background=F6F8FAFF&center=true&vCenter=true&width=700&height=130&lines=const+developer+%3D+%22Paulo+Cesar%22%3B;role%3A+%22Engenheiro+de+Software%22%3B;interests%3A+%5B%22%F0%9F%8E%AE+Games%22%2C+%22%E2%9A%94%EF%B8%8F+GameDev%22%2C+%22%F0%9F%91%BE+PixelArt%22%5D%3B;while(alive)+%7B+code()%3B+automate()%3B+%7D" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFCC&background=0D1117FF&center=true&vCenter=true&width=700&height=130&lines=const+developer+%3D+%22Paulo+Cesar%22%3B;role%3A+%22Engenheiro+de+Software%22%3B;interests%3A+%5B%22%F0%9F%8E%AE+Games%22%2C+%22%E2%9A%94%EF%B8%8F+GameDev%22%2C+%22%F0%9F%91%BE+PixelArt%22%5D%3B;while(alive)+%7B+code()%3B+automate()%3B+%7D" alt="Terminal Code Banner" />
+  </picture>
 
   <br />
 
@@ -12,11 +16,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="8px" alt="Rainbow Pixel Line" />
 
   <br />
-
-  <!-- Texto Dinâmico Estilo Terminal -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FFCC&center=true&vCenter=true&width=550&lines=Software+Engineering;Entusiasta+em+automatizar+servi%C3%A7os;Full+Stack+%26+Backend+Development;Evoluindo+arquiteturas+e+sistemas..." alt="Typing SVG" />
-  </a>
 
   <!-- Badges de Contato (LinkedIn e Gmail direto) -->
   <p align="center">
