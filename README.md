@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Banner Animado: Céu em Pixel Art com Pássaros Voando -->
-  <img src="https://assets.reedbarger.com/pixel-sky-birds.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 8px;" alt="Pixel Sky with Flying Birds" />
+  <!-- Banner Animado Estilo Pixel Art & Geek (Céu, Pássaros e Estética Noturna) -->
+  <img src="https://raw.githubusercontent.com/mrspecht/mrspecht/main/media/banner.gif" width="100%" height="240px" style="object-fit: cover; border-radius: 8px;" alt="Pixel Art Banner Geek" />
 
   <br />
 
@@ -17,6 +17,14 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FFCC&center=true&vCenter=true&width=550&lines=Software+Engineering;Entusiasta+em+automatizar+servi%C3%A7os;Full+Stack+%26+Backend+Development;Evoluindo+arquiteturas+e+sistemas..." alt="Typing SVG" />
   </a>
+
+  <!-- Badges de Contato -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/paulo-cesar-martins-dos-santos-6057172b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:paulocgyn0@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  </p>
+
+</div>
 
   <!-- Badges de Contato (LinkedIn corrigido e Gmail) -->
   <p align="center">
