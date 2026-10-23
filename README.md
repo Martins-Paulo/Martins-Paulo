@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner Animado Estilo Pixel Art & Geek (Pixel City / Sky Night em loop direto) -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmo4Nmg2eHJlb3h0NjEzNXlqOHlmMGVjeWwwcHkzdmJkaWlzdTlscCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3c614V12UA82q1vG/giphy.gif" width="100%" height="240px" style="object-fit: cover; border-radius: 8px;" alt="Pixel Art Banner Geek" />
+  <img src="https://media.giphy.com/media/xT9GED7bU9k3e/giphy.gif" width="100%" height="240px" style="object-fit: cover; border-radius: 8px;" alt="Pixel Art Banner Geek" />
 
   <br />
 
