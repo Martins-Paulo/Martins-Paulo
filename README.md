@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Banner Animado Estilo Pixel Art & Geek (Céu, Pássaros e Estética Noturna) -->
-  <img src="https://raw.githubusercontent.com/mrspecht/mrspecht/main/media/banner.gif" width="100%" height="240px" style="object-fit: cover; border-radius: 8px;" alt="Pixel Art Banner Geek" />
+  <!-- Banner Animado Estilo Pixel Art & Geek (Pixel City / Sky Night em loop direto) -->
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" height="240px" style="object-fit: cover; border-radius: 8px;" alt="Pixel Art Banner Geek" />
 
   <br />
 
