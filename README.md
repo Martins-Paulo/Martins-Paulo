@@ -1,7 +1,9 @@
 <div align="center">
 
-  <!-- Banner Animado Estilo Pixel Art & Synthwave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6&height=200&section=header%20Cesar&fontSize=42&fontAlignY=40&animation=twinkling&fontColor=ffffff" width="100%" alt="Pixel Header Banner" />
+  <!-- Banner Animado: Céu em Pixel Art com Pássaros Voando -->
+  <img src="https://assets.reedbarger.com/pixel-sky-birds.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 8px;" alt="Pixel Sky with Flying Birds" />
+
+  <br />
 
   <!-- Barra Arco-íris Pixelada com Emojis Superiores -->
   <p align="center" style="margin: 0; font-size: 1.1rem; letter-spacing: 6px;">
@@ -16,8 +18,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FFCC&center=true&vCenter=true&width=550&lines=Software+Engineering;Entusiasta+em+automatizar+servi%C3%A7os;Full+Stack+%26+Backend+Development;Evoluindo+arquiteturas+e+sistemas..." alt="Typing SVG" />
   </a>
 
+  <!-- Badges de Contato (LinkedIn corrigido e Gmail) -->
   <p align="center">
-    <a href="(https://www.linkedin.com/in/paulo-cesar-martins-dos-santos-6057172b0/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/paulo-cesar-martins-dos-santos-6057172b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:paulocgyn0@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
 
@@ -30,7 +33,6 @@
 - 💻 Graduando em **Engenharia de Software** na UFG.
 - ⚙️ Apaixonado por **automatizar serviços**, simplificar fluxos manuais e construir integrações resilientes.
 - 🎮 Tenho interesse em desenvolvimento de jogos.
-
 
 ---
 
